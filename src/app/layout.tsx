@@ -16,7 +16,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Mobi Barber",
-  description: "Find a mobile Barber or a mobile Hairstylist near you",
+  description:
+    "Find a mobile Barber or a mobile Hairstylist near you. Why go to a salon when the salon will come to you?",
 };
 
 export default function RootLayout({

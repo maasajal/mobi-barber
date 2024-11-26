@@ -13,7 +13,9 @@ export default function Home() {
           priority
         />
         <h1 className="text-5xl font-bold">Mobi Barber</h1>
-        <div className="flex gap-4 items-center flex-col sm:flex-row"></div>
+        <div className="flex gap-4 items-center flex-col sm:flex-row">
+          Why go to a salon when the salon will come to you?
+        </div>
       </main>
     </div>
   );
